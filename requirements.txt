@@ -2,3 +2,4 @@ opencv-python
 numpy
 tensorflow
 patool
+tensorflow-object-detection-api
